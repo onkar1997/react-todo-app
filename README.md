@@ -1,4 +1,4 @@
-This is React Movie Seacrh App developed using ReactJs.
+This is Todo App developed using ReactJs.
 
 Steps to make this project run:
 
